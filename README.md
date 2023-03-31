@@ -1,4 +1,4 @@
-https://github.com/202303-PRM-TR-FEW/portfolio-project-zainabaaj/settings
+https://202303-prm-tr-few.github.io/portfolio-project-zainabaaj/
 # Create your first portfolio
 
 ## Overview
